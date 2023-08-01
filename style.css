@@ -1,0 +1,28 @@
+.my-image{
+    border-radius: 50%;
+}
+
+.background-container{
+    background: linear-gradient(300deg, purple, skyblue);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+}
+
+.another-container{
+    background: linear-gradient(300deg, magenta,pink, skyblue);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+}
+
+.langimg{
+    border-radius: 50%;
+}
+.text-body-emphasis {
+    --bs-text-opacity: 1;
+    color: #f8f9fa!important;
+}
+.nav-container{
+    background: linear-gradient(300deg,violet,grey,);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+}
